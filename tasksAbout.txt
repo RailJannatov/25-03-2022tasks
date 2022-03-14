@@ -1,0 +1,18 @@
+1:)Arraydaki elementlerin cemini tapin
+
+[66,32,41,2,5,6]    
+
+
+
+
+2:)Array da cut olanlarin indexini cixardin
+Example:[4,3,7,13,26,15]
+
+[0,4] 
+
+
+
+3:)32 ededi 2 nin necenci quvvetidir.
+
+
+4:)Verilmiş ədədin neçə mərtəbəli olduğunu tapın.
