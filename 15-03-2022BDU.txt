@@ -1,0 +1,28 @@
+1.Arrayde ki, elementlerin ededi ortesini tapmaq.
+
+Example:[4,6,7,1]
+
+
+4
+
+2.Arrayda ki,cut elementlerinin cemi ile tek elementlerinin ceminin ferqi
+
+Exapmle:[32,15,24,4,5]
+
+Output:30  
+
+3.Console penceresinde 2 eded daxil edin.
+ Daxil olunan 2 ededden hansinin boyuk oldugu ekrana yazilsin. 
+Eger beraberdirse ekrana beraberdir yazilsin
+4. Console penceresinde 1 eded daxil edin.
+ Daxil olunan ededin tek ve ya cut oldugunu ekrana yazdirin.
+
+
+5.Ededi tersine çeviren alqoritm yazın.
+(Meselen:34568=>86543)
+
+
+6. Iki Arrayimiz var 1ci array-de olan ikincide olmayan ededleri cap eden alqoritm yazın.
+
+Arr1 =[4,5,2,6,4,3]; Arr2 =[7,4,2,76,45,65]  Output: 5,6,3 
+
