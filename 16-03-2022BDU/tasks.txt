@@ -1,0 +1,70 @@
+1) Bir method olsun iki parametr qəbul etsin və bu parametrlərdən birincini ikinciyə bölüb nəticəni geri qaytarsın.
+
+2) Repeat deyə bir method olsun və iki parametr qəbul etsin biri "word" digəri "count" yəni bu şəkildə
+ "Repeat(string word, int count)"
+ bu method göndərilən word-ü mənim göndərilən count qədər yan-yana yazdırıb geri qaytarsın. Məsələn:
+Repeat("Ha!") //Ha!
+Repeat("Ha!", 2) //Ha!Ha!
+Repeat("Ha!", 3) //Ha!Ha!Ha!
+
+
+
+3)Elə bir method yazın ki string ve char qəbul etsin və bu string-də chardan neçə ədəd oldugunu geriyə qaytarsın.  
+
+Count("salam","a");
+
+2
+
+Example :static int Count(string text,char a) 
+
+
+
+4) Methodumuz var iki eded qebul edir bu eded 2 ustu neche quvvetdirse onu tapir.
+Exapmle: Power(32,2);
+
+Output:5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3) Bir method olsun göndərilən "n" sayda ədədin hamsını toplayıb geri qaytarsın.
+
