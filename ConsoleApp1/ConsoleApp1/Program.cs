@@ -1,16 +1,72 @@
 ﻿using System;
+using System.Text;
 
 namespace ConsoleApp1
 {
     class Program
     {
+        //static int Change(out int num1, int num2)
+        //{
+        //    num1 = num1 + num2;
+        //    num2 = num1 - num2;
+        //    num1 = num1 - num2;
+        //    num2 = 40;
+
+        //    num1 = 50;
+        //    num2 = num1 + num2;
+        //    return num1;
+
+        //}
+  
+
+
         static void Main(string[] args)
         {
+            int[] arr = { 4, 5, -3, 6, 7, 60, 4, 6 };
+            Svap(arr);
 
+            static void Svap(int[] arr)
+            {
+                int max = arr[0];
+                int min = arr[0];
+                int maxindex = 0;
+                int minindex = 0;
+                for (int i = 0; i < arr.Length; i++)
+                {
+                    if (max < arr[i])
+                    {
+                        max = arr[i];
+                        maxindex = i;
+                    }
+                    else if (min > arr[i])
+                    {
+                        min = arr[i];
+                        minindex = i;
+                    }
+                }
+                arr[maxindex] = min;
+                arr[minindex] = max;
+                foreach (int arraydakielement in arr)
+
+                {
+                    Console.WriteLine(arraydakielement);
+                }
+
+            }
+
+
+
+
+
+
+
+
+
+            //Console.WriteLine(maxNumber());
+            //Console.WriteLine(Replace("hello", 1));
+            //Console.WriteLine(Contain("salam", 'a'));
             //int[] arr = { 5, 29, 41, 88, 61, 0, 11, 56, 65, 28, 17, 123, 52 };
             //int counter = 0;
-
-
             //for (int i = 0; i < arr.Length; i++)
             //{
             //        var handleQaliq = 0;
@@ -29,9 +85,6 @@ namespace ConsoleApp1
             //    }
 
             //Console.WriteLine(counter);
-
-
-
             //int number;
             //int i;
             //dynamic count = 1;
@@ -76,19 +129,7 @@ namespace ConsoleApp1
             //{
 
             //}
-
-
-
-
             //Console.WriteLine(count);
-
-
-
-
-
-
-
-
 
 
 
@@ -189,11 +230,83 @@ namespace ConsoleApp1
             //        Console.WriteLine(array1[i]);
             //    }
             //}
+
+
+
+            //static StringBuilder Replace(string vord, int index)
+            //{
+            //    StringBuilder replace = new StringBuilder();
+            //    for (int i = 0; i < vord.Length; i++)
+            //    {
+            //        if (i!=index)
+            //        {
+            //            replace.Append(vord[i]);
+            //        }
+            //        else
+            //        {
+            //            replace.Append(2);
+            //        }
+
+            //    }
+            //    return replace;
+            //}
+
+            //salam  a
+            //static bool Contain(string text,char a)
+            //{
+            //    int count = 0;
+            //    for (int i = 0; i < text.Length; i++)
+            //    {
+            //        if (text[i] == a)
+            //        {
+            //            count++;
+            //        }
+            //    }
+            //    if (count == 1)
+            //    {
+            //        return true;
+            //    }
+            //    return false;
+            //}
+
+            //static int maxNumber()
+            //{
+            //    int[] arr = { 5, 9, 2, 43, 1, 53, 30 };
+            //    int maxNumber = arr[0];
+            //    for (int i = 0; i < arr.Length; i++)
+            //    {
+
+            //        if (maxNumber < arr[i])
+            //        {
+            //            maxNumber = arr[i];
+            //        }
+
+            //    }
+            //    return maxNumber;
+
+
+            //  int userRating ;//number1
+
+            //  int myNumber2 = 50;//number2
+
+            //  var result2 = AddNumber(  out userRating, myNumber2);
+            //  Console.WriteLine(result2);
+
+
+            //  Console.WriteLine(userRating);
+
+            //  }
+
+            //static int AddNumber( out int number1,int number2)
+            //{
+            //  number1 = 250;
+            //  return number1 + number2;
         }
-
-
-
-
-
     }
+
+
+
+
+
+
 }
