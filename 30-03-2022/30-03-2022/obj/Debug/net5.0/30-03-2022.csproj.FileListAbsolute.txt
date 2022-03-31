@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\bin\Debug\net5.0\30-03-2022.exe
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\bin\Debug\net5.0\30-03-2022.deps.json
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\bin\Debug\net5.0\30-03-2022.runtimeconfig.json
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\bin\Debug\net5.0\30-03-2022.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\bin\Debug\net5.0\30-03-2022.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\bin\Debug\net5.0\ref\30-03-2022.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\bin\Debug\net5.0\30-03-2022.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.AssemblyInfo.cs
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\ref\30-03-2022.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\30-03-2022\30-03-2022\obj\Debug\net5.0\30-03-2022.genruntimeconfig.cache
