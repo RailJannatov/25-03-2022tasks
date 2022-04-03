@@ -1,0 +1,86 @@
+Aşağıdakı metodaları olan IAccount interface-i yaradirsiniz;
+
+PasswordChecker() -parametr olaraq string shifreni qebul edir.
+ShowInfo()
+
+Aşağıdakı memberlərdən ibarət  User class-i yaradirsiniz ve IAccount-u impliment edirsiniz:
+
+Fullname
+Email
+
+Password
+
+PasswordChecker(string password )- PasswordChecker metodu -gelen string  sifre  deyerinin shertlerini ödəyib ödəmədiyini yoxlayıb
+ true/false qaytarır.
+Şərtlər:
+ --şifrə minimum 8 xarakterli olmalıdır, 
+ --şifrədə ən az 1 böyük hərf olmalıdır,
+ --şifrədə ən az 1 kiçik hərf olmalıdır,	
+ --şifrədə ən az 1 rəqəm olmalıdır.
+
+ShowInfo()- bu  method Console-a userin Fullname  ve Email-in yazdirir.
+
+Qeyd :User classinda  IAccount  interface-i implement  edilir.User yarandigi zaman  email ve shifre  
+teyin edilmesi mecburidir. 
+Usere sifre teyin edilerken  sifrenin PasswordChecker methodunun shertlerinin  ödəməsi vacibdir.
+	
+
+
+
+
+
+
+
+
+
+
+Employee classiniz  propertyleri:
+Name,Surname,Salary
+
+Name yarandadiki shert Ilk herf boyuk ve hamisi soz olmalidir,eyni qaydada surname de aiddir bu,maash 250 den az ola bilmez
+
+Get ve setle yazacaqsiz bunlari
+
+
+Departament classiniz var:
+Name,EmployyeLimit,SalaryLimit	
+
+AddEmployee methodu olmalidi Array.Resize methodundna istifade ede bilerisz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
