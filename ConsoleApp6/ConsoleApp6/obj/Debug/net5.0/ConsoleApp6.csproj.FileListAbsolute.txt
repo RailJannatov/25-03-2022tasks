@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.exe
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.deps.json
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.json
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ref\ConsoleApp6.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\ConsoleApp6.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ConsoleApp6.genruntimeconfig.cache
