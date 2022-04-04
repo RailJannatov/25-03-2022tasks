@@ -1,0 +1,26 @@
+
+Task 1)
+Extension method yaziriq, bir string qəbul edir,birde int gelir, 
+verilen eded tekdirse geriye sözü qaytarır, cütdürsə sözə 's əlaye edir qaytarir..
+
+Task 2)
+Extension ToName bir method yazirsiz men gönderiyim adin ilk harfini boyuk diger 
+heriflerini kicik edib qaytarir. 
+Task 3)
+
+Figure classiniz var hansi ki,intance almaq mumkun olmayan ve bir methodu var CalcArea
+
+Sonra iki dene classiniz var hansi ki bu Figure classini implement edir
+
+Rectangle
+Square 
+
+CalcArea methodunu yuxarida qeyd etdiyim fiqurlara uyghun hesablamalidi
+
+Ve her bir fuqurun propertisi get set le yoxlanib
+ verilen deyeren 0 dan yuxari oldughunu yoxlayib set etmelidir.
+
+Ekranda menu cixmalidir 
+1-e click edende rectangular-in sahesini hesablasin
+2-e click edende square-in sahesini hesablasin
+3 chixish
