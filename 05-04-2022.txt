@@ -1,0 +1,32 @@
+Aşağıdakı custom exception-ı yaradın:
+- NotAvailableException
+
+Room class
+- Id - qıraqdan set etmək olmayacaq yalnız get etmək olacaq və hər dəfə yeni bir Room obyekt yaradıldıqda avtomatik bir vahid artacaq.
+- Name
+- Price
+- PersonCapacity - otağın neçə nəfərlik olduğunu bildirir.
+- IsAvailable - otağın rezervasiya olunub olunmadığını göstərir, default olaraq true olmalıdır.
+- ShowInfo() - Otağın bütün məlumatlarını göstərir
+
+ToString methodunu override edirsiz və geriyə ShowInfo methodunu qaytarırsız.
+
+ps: Name, Price, PersonCapacity olmadan Room obyekti yaratmaq olmaz
+
+Hotel class
+- Name
+- Rooms array - içində Room obyektləri saxlayır və private-dır.
+- AddRoom() - Parametr olaraq Room obyekti qəbul edib rooms arrayinə əlavə edir.
+- MakeReservation() - Parametr olaraq nullable int tipindən bir number qəbul edir əgər number
+null olaraq geriyə NullReferanceException qaytarır əks halda göndərilən number-li otaq tapılır və
+ IsAvailable dəyəri yoxlanılır əgər IsAvailable dəyəri  false-dusa geriyə yuxarıda yaratdığınız 
+NotAvailableException qaytarılır əgər true-dursa həmin room-un IsAvailable dəyəri true olur.
+Hotel class-ı üçün bir indexer yazılır və bir hotel obyekti yaratdıqdan sonra hotel[0] yazdığımız zaman rooms arrayindəki 
+sıfırıncı element geriyə qaytarılmalıdır,
+həm get etmək həmdə set etmək olmalıdır.
+ps: Name dəyəri olmadan bir Hotel obyekti yaratmaq olmaz.
+Program class
+1. İki ədəd room obyekti yaradırsız daha sonra bir hotel obyekti yaradırsız hotel obyektinin içindəki 
+AddRoom methodu vasitəsilə yaratdığınız iki room obyektini hoteldəki rooms arrayinə əlavə edirsiz.
+2. MakeReservation methodunu try catch-ə salıb işlədirsiz yarana biləcək iki exception-da yoxlayırsız.
+3. Indexer-i test edirsiz.
