@@ -1,0 +1,36 @@
+Currency enum
+- Usd - Dollar
+- Eur - Yevro
+- TRY - Türk lirası
+- Rub - Rubl
+
+Bir method olsun iki parametr qəbul etsin birincisi Currecy tipindən bir currency və bir azn dəyəri method göndərilən azn dəyəri göndərilən 
+currency-ə uyğun konvertasiya edib geriyə qaytarsın
+
+
+
+
+Custom MyList<T> yazirisz
+
+Fieldleri:arr,
+private int _count;
+Count{get=>_count;}  //{return _count}
+Capacity-nin default deyeri 0 dir.
+List yaranan kimi arr uzunlughu sifir olsun.
+
+MyList yaranan da eger capacity deyeri gonderiremse capacity-e verilen deyer olmalidi
+
+
+Resizeble methodum var hansi ki bool type da deyer qebul edir 
+ve bu deyer olsa arr-in uzunlughu 0-disa 2 defe bashqadisa uzunlughunun 2 defesi artmalidi
+AddItem methodu movcuddur item qebul edir parametr olaraq Resizeble methodunan istifade edib item-i add elemelisiz.
+AddItems methodu var ve bir neche de parametr gondere bilmek kimi imkanim olsun
+
+
+arr.Lenght==count?count++:count--;
+
+
+
+
+
+
