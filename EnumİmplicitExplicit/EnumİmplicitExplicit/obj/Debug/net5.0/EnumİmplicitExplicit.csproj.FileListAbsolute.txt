@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\bin\Debug\net5.0\EnumİmplicitExplicit.exe
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\bin\Debug\net5.0\EnumİmplicitExplicit.deps.json
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\bin\Debug\net5.0\EnumİmplicitExplicit.runtimeconfig.json
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\bin\Debug\net5.0\EnumİmplicitExplicit.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\bin\Debug\net5.0\EnumİmplicitExplicit.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\bin\Debug\net5.0\ref\EnumİmplicitExplicit.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\bin\Debug\net5.0\EnumİmplicitExplicit.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.AssemblyInfo.cs
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\ref\EnumİmplicitExplicit.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\EnumİmplicitExplicit\EnumİmplicitExplicit\obj\Debug\net5.0\EnumİmplicitExplicit.genruntimeconfig.cache
