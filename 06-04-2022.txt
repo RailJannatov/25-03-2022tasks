@@ -1,0 +1,30 @@
+
+Product abstrakt class
+
+- Id - qıraqdan set etmək olmayacaq yalnız get etmək olacaq və hər dəfə yeni bir Book obyekt yaradıldıqda avtomatik bir vahid artacaq.
+- Name
+- Price
+- Count
+- TotalInCome - book satışlarından alınan gəlir sadəcə Productın miras verdiyi class-larda set etmək olar
+- Sell() - abstrakt method olacaq
+- ShowInfo() - abstrakt method olacaq
+
+Book class (Product-dan miras alır)
+
+- AuthorName
+- PageCount
+
+ShowInfo methodunu override edir və bütün book-un məlumatlarını console-a çıxardır.
+Sell methodunu override edir və hər dəfə sell methodu işə düşəndə bir ədəd book satılmalır count azalır TotalInCome isə artır.
+
+ps: name, price, authorName, pageCount dəyərləri olmadan book obyekti yaratmaq olmaz.
+
+Library class
+
+- BookLimit
+- Books arrayi
+- AddBook() - Parametr olaraq bir Book obyekti qəbul edir və books arrayinə əlavə edir əgər BookLimiti aşırsa exception qaytarsın
+- GetBookById() - Parametr olaraq nullable bir id qəbul edir və o Book obyektini tapıb geriyə qaytarır.
+
+ps: BookLimit olmadan Library obyekti yaratmaq olmaz
+
