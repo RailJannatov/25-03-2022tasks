@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\bin\Debug\net5.0\NullAbstract.exe
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\bin\Debug\net5.0\NullAbstract.deps.json
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\bin\Debug\net5.0\NullAbstract.runtimeconfig.json
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\bin\Debug\net5.0\NullAbstract.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\bin\Debug\net5.0\NullAbstract.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\bin\Debug\net5.0\ref\NullAbstract.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\bin\Debug\net5.0\NullAbstract.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.AssemblyInfo.cs
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\ref\NullAbstract.dll
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.pdb
+C:\Users\Rail\Desktop\14-03-2022BDU\NullAbstract\NullAbstract\obj\Debug\net5.0\NullAbstract.genruntimeconfig.cache
