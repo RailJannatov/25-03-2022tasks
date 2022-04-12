@@ -1,0 +1,16 @@
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\bin\Debug\net5.0\Thread,RaceCondition.exe
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\bin\Debug\net5.0\Thread,RaceCondition.deps.json
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\bin\Debug\net5.0\Thread,RaceCondition.runtimeconfig.json
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\bin\Debug\net5.0\Thread,RaceCondition.runtimeconfig.dev.json
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\bin\Debug\net5.0\Thread,RaceCondition.dll
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\bin\Debug\net5.0\ref\Thread,RaceCondition.dll
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\bin\Debug\net5.0\Thread,RaceCondition.pdb
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.csproj.AssemblyReference.cache
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.AssemblyInfoInputs.cache
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.AssemblyInfo.cs
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.dll
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\ref\Thread,RaceCondition.dll
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.pdb
+C:\Users\Rail\Desktop\Thread,RaceCondition\Thread,RaceCondition\obj\Debug\net5.0\Thread,RaceCondition.genruntimeconfig.cache
