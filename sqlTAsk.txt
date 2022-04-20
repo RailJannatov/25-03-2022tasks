@@ -1,0 +1,17 @@
+Cədvəl :
+İşçi - (SAA, VəzifəId,Maaş)
+Vəzifə - (Ad)
+Filial - (Ad)
+Məhsul - (Ad, Alış qiyməti, Satış qiyməti)
+Satış - (MəhsulId, İşçiId,Filialİd, Satış tarixi)
+Sorğular : 
+1) Satış cədvəlində işçilərin , satılan məhsulların,
+ satışın olduğu filialın, məhsulun alış və satış qiyməti yazılsın.
+2) Bütün satışların cəmini tap.
+3) Cari ayda məhsul satışından gələn yekun məbləği tap
+4) Hər işçinin satdığı məhsul sayını tap
+5) Bu gün üzrə ən çox məhsul satılan filialı tap.
+6) Cari ayda ən çox satılan məhsulu tap.
+
+Insert kodlarını da saxlayın atanda onlar da gəlsin.
+Hər birinizə uğurlar
