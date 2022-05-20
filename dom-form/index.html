@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="./assets/js/main.js" defer></script>
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .taskdiv {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            box-shadow: 0px 5px 30px 25px rgb(224, 224, 224);
+            width: 600px;
+            padding: 60px 0;
+            border-radius: 30px;
+            margin: 100px auto;
+            transition: box-shadow 0.5s;
+        }
+
+        .taskdiv:hover {
+            box-shadow: 0px 5px 30px 25px rgb(199, 199, 199);
+        }
+
+        h2 {
+            font-size: 35px;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 800;
+            color: rgb(148, 148, 148);
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h3 {
+            font-size: 25px;
+            font-family: 'Poppins', sans-serif;
+            font-weight: 800;
+            color: limegreen;
+            text-align: left;
+            margin-bottom: 10px;
+        }
+
+        input {
+            font-family: 'Poppins', sans-serif;
+            display: block;
+            width: 400px;
+            height: 60px;
+            font-size: 20px;
+            font-weight: 600;
+            border: none;
+            border-radius: 10px;
+            outline: none;
+            padding: 0 14px;
+            background-color: rgb(233, 233, 233);
+            margin-bottom: 20px;
+            transition: background-color 0.5s;
+        }
+
+        input:hover,
+        input:focus {
+            background-color: rgb(202, 202, 202);
+        }
+
+        .button {
+            font-family: 'Poppins', sans-serif;
+            background-color: limegreen;
+            border: none;
+            outline: none;
+            width: 200px;
+            height: 60px;
+            font-size: 20px;
+            color: #fff;
+            border-radius: 10px;
+            transition: background-color 0.5s;
+        }
+
+        .button:hover {
+            background-color: rgb(0, 165, 0);
+            cursor: pointer;
+        }
+
+        .btn {
+            width: 200px;
+            margin: 0 auto;
+        }
+        .result{
+            display: none;
+            text-align: left;
+        }
+        .table{
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <section>
+        <div class="taskdiv" id="taskdiv">
+            <div>
+                <div class="result" id="result">
+                    <h2>INFO</h2>
+                    <h3 id="pname">NAME : </h3>
+                    <h3 id="psurname">SURNAME : </h3>
+                    <h3 id="pemail">EMAİL :</h3>
+                    <h3 id="page">AGE :</h3>
+                </div>
+                <div class="table" id="table">
+                    <h2>FORM</h2>
+                    <input type="text" placeholder="Name" class="name">
+                    <input type="text" placeholder="Surname" class="surname">
+                    <input type="text" placeholder="Email" class="email">
+                    <input type="text" placeholder="Age" class="age">
+                    <div class="btn"><button class="button" id="button">SUBMIT</button></div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+
+    <p style="background-color: red; color: orange; font-size: 50px;" class="paragraph">In mouse down change text</p>
+
+
+</body>
+
+</html>
